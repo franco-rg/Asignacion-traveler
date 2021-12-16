@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Traveler</string>
+    <string name="lo_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam felis elit, placerat vitae sem id, mollis consequat lacus.</string>
+    <string name="btn_text_next">Siguiente</string>
+</resources>

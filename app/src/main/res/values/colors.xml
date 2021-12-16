@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 200: suave / 700: solid -->
+    <color name="gray_200">#B4B4B4</color>
+    <color name="gray_500">#959595</color>
+    <color name="gray_700">#666666</color>
+    <color name="green_200">#8AF588</color>
+    <color name="green_500">#70C36E</color>
+
+    <!-- color default -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
